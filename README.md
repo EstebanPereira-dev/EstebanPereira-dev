@@ -7,7 +7,8 @@
 🔹 Travaillant sur des projets en Java & SQL  
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estebanpereira-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-pereira)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteban.pereira2006@gmail.com)
 
 ## 🛠️ Technologies & Outils
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,10 +27,6 @@
 
 ## 🚀 Mes projets
 🔹 [**Jeu d'Echecs**](https://github.com/EstebanPereira-dev/EchecJava) - Java
-
-## 📫 Contact
-📧 [esteban.pereira2006@gmail.com](mailto:esteban.pereira2006@gmail.com) | [LinkedIn](https://www.linkedin.com/in/esteban-pereira)
-
 
 ## 📊 Stats GitHub
 
