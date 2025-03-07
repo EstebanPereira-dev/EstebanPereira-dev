@@ -25,7 +25,7 @@
 
 
 ## 🚀 Mes projets
-🔹 [**Jeu d'Echecs**](https://github.com/ton-user/suivi-depenses) - Java
+🔹 [**Jeu d'Echecs**](https://github.com/EstebanPereira-dev/EchecJava) - Java
 
 ## 📫 Contact
 📧 [esteban.pereira2006@gmail.com](mailto:esteban.pereira2006@gmail.com) | [LinkedIn](https://www.linkedin.com/in/esteban-pereira)
