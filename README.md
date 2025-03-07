@@ -1,5 +1,4 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bienvenue%20sur%20mon%20GitHub!&fontSize=35&fontColor=ffffff)
-![Votre futur alternant !](https://github.com/user-attachments/assets/d7b36ad4-4d29-4745-ade7-bef792b6a13f)
 
 # 👋 Hello, I'm Esteban !
 
