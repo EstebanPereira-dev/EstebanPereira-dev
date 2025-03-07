@@ -16,4 +16,4 @@
 🔹 [**Jeu d'Echecs**](https://github.com/ton-user/suivi-depenses) - Java
 
 ## 📫 Contact
-📧 [esteban.pereira2006@gmail.com](mailto:esteban.pereira2006@gmail.com) | [LinkedIn](www.linkedin.com/in/esteban-pereira)
+📧 [esteban.pereira2006@gmail.com](mailto:esteban.pereira2006@gmail.com) | [LinkedIn](https://www.linkedin.com/in/esteban-pereira)
