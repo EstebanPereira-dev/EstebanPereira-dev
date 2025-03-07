@@ -17,3 +17,9 @@
 
 ## 📫 Contact
 📧 [esteban.pereira2006@gmail.com](mailto:esteban.pereira2006@gmail.com) | [LinkedIn](https://www.linkedin.com/in/esteban-pereira)
+
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=esteban-pereira&show_icons=true&theme=tokyonight)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban-pereira&layout=compact&theme=tokyonight)
+
+
