@@ -41,6 +41,8 @@
 ## 🚀 Mes projets
 🔹 [**Jeu d'Echecs**](https://github.com/EstebanPereira-dev/EchecJava) - Java
 
+🔹 [**Ultimate Ad Blocker**](https://github.com/EstebanPereira-dev/Ad-Blocker) - JavaScript
+
 ## 📊 Stats GitHub
 
 <table>
