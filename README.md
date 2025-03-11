@@ -6,6 +6,8 @@
 
 🔹 Actuellement à la recherche d'une alternance en développement  
 
+🔹 Rythme : 2 jours en école, 3 jours en entreprise
+
 🔹 Travaillant sur des projets en Java & SQL  
 
 ## 🌐 Socials  
