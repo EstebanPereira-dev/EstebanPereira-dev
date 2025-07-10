@@ -43,7 +43,10 @@
 ## 🚀 Mes projets
 🔹 [**Jeu d'Echec**](https://github.com/EstebanPereira-dev/EchecJava) - Java
 
+🔹 [**Lunaria**](https://github.com/EstebanPereira-dev/Lunaria-Terraria-Like) - Java 
+
 🔹 [**Extension Ultimate Ad Blocker**](https://github.com/EstebanPereira-dev/Ad-Blocker) - JavaScript
+
 
 ## 📊 Stats GitHub
 
